@@ -24,7 +24,7 @@ Configuring DNS Providers
 Add record  
 Add a DNS record  
 CNAME  
-Host name: www
+Host name: www  
 Points to: toggle-f81a.onrender.com  
 TTL: 1 minute  
 Save
