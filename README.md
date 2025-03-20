@@ -1,15 +1,13 @@
 # Domain Name From Ionos to Render
 ---
-## Ionos.com  
-
+## Ionos.com
 Domains & SSL  
 togglesoftware.com  
 > Use your domain  
 Adjust destination  
 DNS  
 ---
-## Render.com  
-
+## Render.com
 dashboard  
 toggle  
 Settings  
@@ -17,20 +15,17 @@ Custom Domains > DNS configuration instructions
 2. Configure DNS with your provider  
 Remove AAAA records  
 ---
-## Ionos.com  
-
+## Ionos.com
 Delete AAAA records  
 Select checkbox(es)  
 Delete Records  
 --- 
-## Render.com  
-
+## Render.com
 3 Add DNS records for your domain based on your provider, then return here:  
 All other providers(open link in new tab)  
 Configuring DNS Providers  
 --- 
-## Ionos.com  
-
+## Ionos.com
 Add record  
 Add a DNS record  
 CNAME  
@@ -45,7 +40,4 @@ Save
 1 Return to your service's Custom Domains settings in the Render Dashboard (open link in new tab)  
 toggle  
 Settings  
-+ Add Custom Domain: togglesoftware.com Save  
-
-
-
+/+ Add Custom Domain: togglesoftware.com Save  
